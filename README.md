@@ -20,14 +20,22 @@ Files
 index.html: The main HTML file that contains the structure of the game.
 style.css: The CSS file used for styling the game.
 script.js: The JavaScript file that contains the game logic.
+
 Getting Started
+
 Clone the Repository
 
+
 bash
+
 Copy code
+
 git clone <repository-url>
+
 cd rock-paper-scissors-game
+
 Open index.html in a Web Browser
+
 
 
 You can simply double-click the index.html file or right-click and select "Open with" to choose your browser.
